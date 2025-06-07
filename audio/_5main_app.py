@@ -27,9 +27,9 @@ USER_MODELS_FILES = {
 IDENTIFICATION_THRESHOLD = 0.5 # 示例阈值
 
 # --- 配置百度 API Key 和 Secret Key ---
-ASR_TTS_API_KEY = "WBqiP1LlQ9XTktDjuu5CtcHz"
-ASR_TTS_SECRET_KEY = "lYhmf87vnO2RlhOxKW171DayEydgCsXj"
-LLM_API_KEY = "bce-v3/ALTAK-ob15ceNLd3CtHoYoi60yv/bb3bb09da19a074fbd764afa5e32240b56947a4b"
+ASR_TTS_API_KEY = "*"
+ASR_TTS_SECRET_KEY = "*"
+LLM_API_KEY = "*"
 
 # --- 其他配置 ---
 SAMPLE_RATE = 16000 # 采样率
